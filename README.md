@@ -30,8 +30,7 @@
 
 ### Frontend
 
-<div align="center">  
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/frontend/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<div align="center"> 
 <img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/frontend/css.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/frontend/html.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/frontend/javascript.svg" alt="JavaScript" height="50" />  
