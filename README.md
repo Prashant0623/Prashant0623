@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on API Inegrations & Chatbot Development (https://n8n.io/)&(https://typebot.io/)
 
-- 🌱 I am currently focused on exploring **AI, LLMs, and automation tools to build data-driven applications and high-performance user experience bots**.
+- 🌱 I'm focused on **leveraging AI, LLMs, and automation tools to create data-driven applications and deliver high-performance, user-centric bots**.
 
 - 💬 Ask me about **Api integrations, chatbot development, backend development & integrate them into automation flows**
 
@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Totals Hits](https://komarev.com/ghpvc/?username=kaushaljoshi09&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaushaljoshi09&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
+![Totals Hits](https://komarev.com/ghpvc/?username=prashantmehta23&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrashant0623&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
 
 </div>
 
