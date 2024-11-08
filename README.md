@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on API Inegrations & Chatbot Development (https://n8n.io/)&(https://typebot.io/)
 
-- 🌱 I’m currently learning **Exploring AI , LLM modules & Automation Tools to build smarter, data-driven applications and user-experience bots that deliver high impact and performance.**
+- 🌱 I am currently focused on exploring **AI, LLMs, and automation tools to build data-driven applications and high-performance user experience bots**.
 
 - 💬 Ask me about **Api integrations, chatbot development, backend development & integrate them into automation flows**
 
-- ⚡ Fun fact **I'm constantly exploring new tech—there’s always something exciting to learn in the world of code!**
+- ⚡ Fun fact: I’m always **diving into the latest tech—there’s no shortage of exciting new things to discover in the world of code!**
 
 <br/>
 
@@ -41,12 +41,10 @@
 ### Backend
 
 <div align="center">   
-<img style="margin: 10px" src="https://github.com/Prashant06230623/Prashant0623/blob/main/images/backend/php.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://github.com/Prashant06230623/Prashant0623/blob/main/images/backend/java-ar21.svg" alt="Java" height="50" />
 <img style="margin: 10px" src="https://github.com/Prashant06230623/Prashant0623/blob/main/images/backend/Laravel.svg" alt="LARAVEL" height="50" />  
 <img style="margin: 10px" src="https://github.com/Prashant06230623/Prashant0623/blob/main/images/backend/node-js.svg" alt="Node.js" height="50" />   
 <img style="margin: 10px" src="https://github.com/Prashant06230623/Prashant0623/blob/main/images/backend/python.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://github.com/Prashant06230623/Prashant0623/blob/main/images/backend/express.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://github.com/Prashant06230623/Prashant0623/blob/main/images/backend/symfony.svg" alt="Symfony" height="50" /> 
 </div></td><td valign="top" width="33%">
 
 ### Databases
