@@ -81,17 +81,14 @@
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/sameermistry" target="_blank">
+<a href="https://github.com/Prashant0623" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://x.com/sameermistry251" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=x-plateform style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/sameer-mistri-239a19146/" target="_blank">
+<a href="https://www.linkedin.com/in/prashant-mehta23/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </a>
-<a href="https://instagram.com/joshikaushal.18" target="_blank">
+<a href="https://instagram.com/prashantmehta66" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
