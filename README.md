@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/Prashant06230623/Prashant06230623/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Prashant06230623" alt="coding with SM"  width="60%"/><br> </div>
+<img src="https://github.com/Prashant06230623/Prashant06230623/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Prashant0623" alt="coding with SM"  width="60%"/><br> </div>
 
 <h1 align="center">Hi 👋, I'm Prashant0623 Mehta</h1>
 <h3 align="center">Software Engineer | N8N, typebot.io, JavaScript, Java, Springboot | Exploring Node.js, React.js and More</h3>
