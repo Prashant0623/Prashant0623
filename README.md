@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Prashant0623/Prashant0623/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Prashant0623" alt="coding with SM"  width="60%"/><br> </div>
 
-<h1 align="center">Hi 👋, I'm Prashant Mehta</h1>
+<h1 align="center">Hello there! I'm Prashant Mehta 👋</h1>
 <h3 align="center">Software Engineer | N8N, typebot.io, JavaScript, Java, Springboot | Exploring Node.js, React.js and More</h3>
 
 - 🔭 I’m currently working on API Inegrations & Chatbot Development [n8n.io](https://n8n.io/) and [typebot.io](https://typebot.io/)
