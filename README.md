@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Prashant Mehta</h1>
 <h3 align="center">Software Engineer | N8N, typebot.io, JavaScript, Java, Springboot | Exploring Node.js, React.js and More</h3>
 
-- 🔭 I’m currently working on [API Inegrations & Chatbot Development](https://n8n.io/)&(https://typebot.io/)
+- 🔭 I’m currently working on API Inegrations & Chatbot Development (https://n8n.io/)&(https://typebot.io/)
 
 - 🌱 I’m currently learning **Exploring AI , LLM modules & Automation Tools to build smarter, data-driven applications and user-experience bots that deliver high impact and performance.**
 
-- 💬 Ask me about **Api integrations , chatbot development, backend development & integrate them into automation flows**
+- 💬 Ask me about **Api integrations, chatbot development, backend development & integrate them into automation flows**
 
 - ⚡ Fun fact **I'm constantly exploring new tech—there’s always something exciting to learn in the world of code!**
 
