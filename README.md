@@ -42,9 +42,7 @@
 
 <div align="center">   
 <img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/backend/java-ar21.svg" alt="Java" height="50" />
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/backend/Laravel.svg" alt="LARAVEL" height="50" />  
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/backend/node-js.svg" alt="Node.js" height="50" />   
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/backend/python.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/backend/node-js.svg" alt="Node.js" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### Databases
