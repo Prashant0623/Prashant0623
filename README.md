@@ -73,7 +73,7 @@
 
 <div align="center">       
 <img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/web-servers/nginx-logo.svg" alt="Nginx" height="50" />       
-</div></td><td valign="top" width="33%"></td>
+</div></td>
 </table>
 
 <br/>
