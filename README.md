@@ -71,18 +71,10 @@
 
 ### Web Server
 
-<div align="center">   
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/web-servers/apache.svg" alt="Apache" height="50" />    
+<div align="center">       
 <img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/web-servers/nginx-logo.svg" alt="Nginx" height="50" />       
 </div></td><td valign="top" width="33%">
-
-### Cloud & DevOps
-
-<div align="center">  
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/devops/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/devops/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://github.com/Prashant0623/Prashant0623/blob/main/images/devops/gnu_bash-icon.svg" alt="Bash" height="50" /> 
-</div></td></tr></table>
+</tr></table>
 
 <br/>
 
